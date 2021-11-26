@@ -1,0 +1,27 @@
+.loginForm {
+	text-align: center;
+	padding: 22px;
+}
+.profile{
+    margin-top: 10%;
+}
+.profile h1{
+    text-align: center;
+}
+.profileContainer{
+    /* font-size: 20px; */
+    padding: 10px;
+    margin: 10px;
+}
+.formGroup input{
+    font-size: 20px;
+}
+.introholder{
+	background-color: #D7CCC8 !important;
+	width: 100%;
+	height: 330px;
+}
+.introtitle{
+	text-align: center!important;
+	padding-top: 4%;
+}
