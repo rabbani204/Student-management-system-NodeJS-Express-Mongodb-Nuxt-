@@ -1,4 +1,4 @@
-# campuscrowds
+# Student management system
 
 > My majestic Nuxt.js project
 
